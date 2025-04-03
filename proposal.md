@@ -2,15 +2,15 @@
 
 ## What will (likely) be the title of your project?
 
-TODO
+Pyman(Hangman)
 
 ## In just a sentence or two, summarize your project. (E.g., "A website that lets you buy and sell stocks.")
 
-TODO
+I will create a hangman game that will allow the user to guess a word by picking out the letters
 
 ## In a paragraph or more, detail your project. What will your software do? What features will it have? How will it be executed?
 
-TODO
+The program will be a interactive game that allows the user to 
 
 ## If planning to combine 1051's final project with another course's final project, with which other course? And which aspect(s) of your proposed project would relate to 1051, and which aspect(s) would relate to the other course?
 
